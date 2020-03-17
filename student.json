@@ -1,13 +1,5 @@
-[
-{"type":"header","version":"4.9.2","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"school"},
-{"type":"table","name":"student","database":"school","data":
-[
 {"rollNo":"1","name":"Praneti","status":"1","presentTime":"2020-03-17 21:22:14"},
 {"rollNo":"2","name":"Sourabh","status":"1","presentTime":"2020-03-17 21:22:16"},
 {"rollNo":"3","name":"Surbhi","status":"1","presentTime":"2020-03-17 21:23:19"},
 {"rollNo":"4","name":"Bhagyashri","status":"1","presentTime":"2020-03-17 21:23:31"},
 {"rollNo":"5","name":"Onkar","status":"1","presentTime":"2020-03-17 21:23:41"}
-]
-}
-]
